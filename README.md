@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Want to know more about me? [Check out my portfolio.](https://irlanfreitas.me/)
+
 <!--
 **IrlanFreitas/IrlanFreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
