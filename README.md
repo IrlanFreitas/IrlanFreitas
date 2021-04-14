@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Visits Badge](https://badges.pufler.dev/visits/)](https:irlanfreitas.me)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/IrlanFreitas_)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/IrlanFreitas/)
+[![Blog Badge](https://img.shields.io/badge/blog-olha%20l%C3%A1-blueviolet?style=flat-square&logo=appveyor)](https:irlanfreitas.me)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1?style=flat-square&logo=appveyor)](https://twitter.com/IrlanFreitas_)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8?style=flat-square&logo=appveyor)](https://www.linkedin.com/in/IrlanFreitas/)
