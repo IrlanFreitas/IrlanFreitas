@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./Banner%20do%20Github.png)](https://braydoncoyer.dev)
+[![Braydon's GitHub Banner](./Banner%20do%20Github.png)](https://irlanfreitas.me)
 ### Hi there 👋
 
 Want to know more about me? [Check out my portfolio.](https://irlanfreitas.me/)
