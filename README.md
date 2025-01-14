@@ -1,4 +1,3 @@
-[![Braydon's GitHub Banner](./Banner%20do%20Github.png)](https://irlanfreitas.me)
 ##
 
 ### Hi there 👋
