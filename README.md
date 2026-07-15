@@ -4,5 +4,5 @@
 
 ##
 
-<img src="./Banner do Github.pnc" />
+<img src="./Banner do Github.png" />
 
